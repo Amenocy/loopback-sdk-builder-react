@@ -1,7 +1,7 @@
 {
-  "name": "@mean-expert/loopback-sdk-builder",
-  "version": "2.3.1",
-  "description": "Tool for auto-generating Software Development Kits (SDKs) for LoopBack",
+  "name": "Amenocy/loopback-sdk-builder-react",
+  "version": "1.0.0",
+  "description": "Tool for auto-generating Software Development Kits (SDKs) for LoopBack (react version)",
   "bin": {
     "lb-sdk": "bin/lb-sdk"
   },
@@ -21,20 +21,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mean-expert-official/loopback-sdk-builder.git"
+    "url": "git://github.com/Amenocy/loopback-sdk-builder-react.git"
   },
   "keywords": [
     "loopback",
     "cli",
-    "angular",
-    "angular2",
-    "nativescript",
-    "{N}"
+    "React"
   ],
   "author": {
-    "name": "Jonathan Casarrubias",
-    "email": "jcasarrubias@mean.expert",
-    "url": "http://mean.expert"
+    "name": "Amin abbasi",
+    "email": "amenocy@live.com"
   },
   "contributors": [
     {
@@ -103,7 +99,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mean-expert-official/loopback-sdk-builder/issues"
+    "url": "https://github.com/amenocy/loopback-sdk-builder-react/issues"
   },
   "dependencies": {
     "chalk": "1.1.3",
