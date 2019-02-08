@@ -2,7 +2,12 @@ LoopBack SDK Builder FOR REACT
 
 this fork is trying to fix bugs of @mean-expert/loopback-sdk-builder for react ... please help me ... 
 ==================
-> Disclaimer: This project is not longer directly extended or improved by the author Jonathan Casarrubias, though any PRs improving or extending the SDK Builder are continuously being accepted and integrated in a weekly basis. Therefore, this module keeps growing as long as the community keeps sending patches.
+to create react sdk 
+
+````
+$ ./node_modules/.bin/lb-sdk server/server.js /path/to/client/sdk -l react -i disabled -t false
+
+````
 
 The [@mean-expert/loopback-sdk-builder](https://www.npmjs.com/package/@mean-expert/loopback-sdk-builder) is a community driven module forked from the official `loopback-sdk-angular` and refactored to support [Angular 2+](http://angular.io).
 
