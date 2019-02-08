@@ -1,4 +1,6 @@
-LoopBack SDK Builder 
+LoopBack SDK Builder FOR REACT 
+
+this fork is trying to fix bugs of @mean-expert/loopback-sdk-builder for react ... please help me ... 
 ==================
 > Disclaimer: This project is not longer directly extended or improved by the author Jonathan Casarrubias, though any PRs improving or extending the SDK Builder are continuously being accepted and integrated in a weekly basis. Therefore, this module keeps growing as long as the community keeps sending patches.
 
