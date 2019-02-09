@@ -1,6 +1,6 @@
 LoopBack SDK Builder FOR REACT 
 
-this fork is trying to fix bugs of @mean-expert/loopback-sdk-builder for react ... please help me ... 
+this fork is trying to fix bugs of @mean-expert/loopback-sdk-builder for react ... 
 ==================
 to create react sdk 
 
